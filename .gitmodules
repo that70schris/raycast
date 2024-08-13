@@ -1,0 +1,6 @@
+[submodule "scripts"]
+	path = scripts
+	url = git@github.com:that70schris/scripts.git
+[submodule "extensions"]
+	path = extensions
+	url = git@github.com:that70schris/extensions.git
